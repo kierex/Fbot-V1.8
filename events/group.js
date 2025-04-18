@@ -24,7 +24,7 @@ module.exports = {
 👥 Total members: ${totalMembers}
 
 
-👨‍💻[ADMIN] @Mark: Pm any message to the bobong owner ng bot if you see problem 
+👨‍💻[ADMIN] <vrax>: Pm any message to the bobong owner ng bot if you see problem 
 
 Bot creator:  @BotCreator`,
                         mentions
